@@ -1,0 +1,10 @@
+"As an experienced professional in the software industry, you are currently employed at a company that has developed its own software solution, integrating various third-party software components. Recently, your team encountered a significant challenge with one of your third-party software providers. The provider notified you that they would cease support for your current implementation and required you to upgrade your codebase to align with their new implementation standards.
+
+This unexpected development prompted your team to reflect on your processes and consider preventive measures to mitigate similar challenges in the future. While this issue primarily concerns the third-party software provider, it raises questions about your approach to software integration and dependency management."
+
+
+For this activity, simply choose one question you wish to answer.
+
+Reflecting on your experience, what lessons have you learned, and what actionable steps can you take to prevent similar issues in the future?
+
+    Since the company is integrating various third-party software components, this kind of issues might be experienced frequently and the team should be ready if something like this happens. As an experienced professional, the team/ company should create or enhance process/es on handling this kind of third-party software issue to prevent similar problems in the future. In addition, the team should take a thorough researh before using third-party software, they should contact the software provider itself through their contact support team or through their email and negotiate with them if possible. Lastly, the team should always track/check what is on trend in the software industry and they should be open to acquire new knowledge/skills to be adaptable when sudden changes is needed in the company.
