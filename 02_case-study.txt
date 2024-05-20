@@ -1,0 +1,9 @@
+As a software engineer, to prevent delays and issues experienced by the team, there should be a careful planning on how to 
+
+Base on the problem, the project was meticulously planned with a target launch date. However, there are still delays and issues that was experienced. As a software engineer, the following are some aspects that could have look at to prevent the existence of the problem that was exxperienced:
+
+1. Communication - since the project is meticulously planned, the project manager should ensure that everyone in the team are aligned or aware on what was planned and there should have been emphasis on the due date of the project.
+
+2. Monitoring and controlling - The project manager should continously monitor the progress of the team to make sure that they will finish it on time. Also it will be easier to control whether the development team is on track or meet the project requirements to avoid delays.
+
+3. Prioritization - The team should know what tasks should be prioritized to prevent making an incomplete tasks.
